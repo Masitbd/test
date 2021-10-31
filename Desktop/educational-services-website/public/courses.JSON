@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Dansk for beginning",
+    "img": "https://t4.ftcdn.net/jpg/01/36/86/77/240_F_136867788_5Ptj2XlTHRbLxg6foE0eJiFXKFRbReBN.jpg",
+    "info": "Vores danskkurser er tilrettelagt for udlændinge, der har en uddannelse fra hjemlandet og har" 
+   },
+  {
+    "id": 2,
+    "name": "Dansk for intermediate",
+    "img": "https://as2.ftcdn.net/v2/jpg/02/68/03/19/500_F_268031968_Dx1n3EgQXIhq6ZbyfORDyPTymOi6M7FP.jpg",
+    "info": "Vores danskkurser er tilrettelagt for udlændinge, der har en uddannelse fra hjemlandet og har" 
+  },
+  {
+    "id": 3,
+    "name": "Dansk for intensive",
+    "img": "https://as1.ftcdn.net/v2/jpg/02/95/11/04/500_F_295110466_4tLQdmtcJxAwOe1tvmkBrr57CshGQacL.jpg",
+    "info": "Vores danskkurser er tilrettelagt for udlændinge, der har en uddannelse fra hjemlandet og har" 
+  },
+  {
+    "id": 4,
+    "name": "Dansk for adult",
+    "img": "https://image.freepik.com/free-photo/student-class-looking-course_23-2148888810.jpg",
+    "info": "Vores danskkurser er tilrettelagt for udlændinge, der har en uddannelse fra hjemlandet og har" 
+  }
+  
+]
